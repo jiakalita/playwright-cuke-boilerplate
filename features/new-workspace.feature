@@ -1,8 +1,4 @@
 Feature: New Workspace
-        
-    # Background : Existing user
-	
-	# Given User is logged into dashboard
 
 @new_workspace_001
 Scenario: New team workspace
